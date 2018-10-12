@@ -1,0 +1,7 @@
+package park;
+
+import org.junit.jupiter.api.Test;
+
+public class ParkingDirectorTest {
+
+}
